@@ -2,10 +2,10 @@
 > *Project: ASL Classification Using CNNs*
 
 ## **Team Details**
-1. Nishant Saini (40195801)
-2. Vikram Singh Brahm (40241024)
-3. Simran Sohal (40226103)
-4. Shalvi Saxena (40220846)
+1. Shalvi Saxena
+2. Vikram Singh Brahm
+3. Simran Sohal
+4. Nishant Saini
 
 ## **High level description/presentation of the project**
  - In Canada alone, there more than 357,000 people who're part of the Deaf Community and American Sign Language is the most tool for them for communication. In this study, we approach the problem of recognizing static hand gestures using Convolutional Neural Networks and recognize and help in interpretation of these hand gestures. 
